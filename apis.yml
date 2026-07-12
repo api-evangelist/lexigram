@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://docs.lexigram.io/
 common:
+  - type: DomainSecurity
+    url: security/lexigram-domain-security.yml
   - type: Website
     url: https://docs.lexigram.io/
   - type: PublicAPIsListing
