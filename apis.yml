@@ -39,7 +39,6 @@ apis:
   - name: Lexigram
     description: "NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology"
     humanURL: https://docs.lexigram.io/
-    baseURL: https://docs.lexigram.io/
     tags:
       - Health
     properties:
